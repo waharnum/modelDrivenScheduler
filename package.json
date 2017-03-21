@@ -1,0 +1,7 @@
+{
+    "name": "modelDrivenScheduler",
+    "version": "0.1.0",
+    "dependencies": {
+        "bergson": "colinbdclark/bergson"
+    }
+}
